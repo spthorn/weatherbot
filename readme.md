@@ -4,3 +4,4 @@ An adaptation of [norrisbot](https://getpocket.com/a/read/1041488399) to provide
 
 Uses slackbots(https://www.npmjs.com/package/slackbots) module.
 
+This repo is linked to a Heroku app.

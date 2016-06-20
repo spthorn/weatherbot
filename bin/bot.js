@@ -1,6 +1,5 @@
 // bin/bot.js
 
-//'use strict';
 
 var WeatherBot = require('../lib/weatherbot');
 
